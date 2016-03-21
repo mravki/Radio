@@ -1,0 +1,19 @@
+{
+    "list": [
+        {
+            "list": [
+                {
+                    "list": [
+                        {
+                            "name": "1 rok",
+                            "url": "..."
+                        }
+                    ],
+                    "name": "Bulgaria"
+                }
+            ],
+            "name": "Europe"
+        }
+    ],
+    "version": 1
+}
